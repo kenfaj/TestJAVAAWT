@@ -1,3 +1,4 @@
+package src;
 import java.awt.*;
 public class GUIExer7_FAJARDO extends Frame{
     {
@@ -9,7 +10,6 @@ public class GUIExer7_FAJARDO extends Frame{
     public GUIExer7_FAJARDO(){
         Panel north = new Panel(new FlowLayout(FlowLayout.CENTER));
 
-        Panel south = new Panel(new GridLayout(1,1));
         north.add(new TextField("",5));
         north.add(new Button("+"));
         north.add(new TextField("",5));

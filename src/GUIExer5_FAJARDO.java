@@ -1,3 +1,4 @@
+package src;
 import java.awt.*;
 import static java.awt.BorderLayout.*;
 
