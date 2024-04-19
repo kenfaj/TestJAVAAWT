@@ -6,9 +6,6 @@ public class GUIExer7_FAJARDO extends Frame{
         this.setPreferredSize(new Dimension(400,300));
     }
 
-    /**
-     * 
-     */
     public GUIExer7_FAJARDO(){
         Panel north = new Panel(new FlowLayout(FlowLayout.CENTER));
 
