@@ -29,16 +29,4 @@ public class GUIExer7_FAJARDO extends Frame{
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 }
