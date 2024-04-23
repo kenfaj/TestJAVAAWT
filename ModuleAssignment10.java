@@ -8,9 +8,6 @@ import java.awt.TextField;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowEvent;
-import java.util.ArrayList;
-
-import javax.swing.Action;
 
 public class ModuleAssignment10 extends Frame {
     private Label lred, lgreen, lblue, lalpha;
