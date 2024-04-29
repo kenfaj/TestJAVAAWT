@@ -42,8 +42,8 @@ public class ModuleAssignment10 extends Frame {
         lalpha = new Label("Alpha:");
 
         error = new Label("                                                     ");
-  
-        BG = new Panel(new GridLayout(1,1));
+
+        BG = new Panel(new GridLayout(1, 1));
 
         tred = new TextField(DEFAULT_TEXT_VALUE, 15);
         tgreen = new TextField(DEFAULT_TEXT_VALUE, 15);
